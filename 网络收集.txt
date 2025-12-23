@@ -670,6 +670,9 @@ TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
 美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
 
 频道,#genre#
+宁夏卫视,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/ningxia/1000/index.m3u8?msisdn=2025122314025919c2f0866e4049d1bde8ee26e36a1905&mdspid=&spid=600697&netType=0&sid=5910022262&pid=2028597139&timestamp=20251223140259&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=738910535&ParentNodeID=-99&assertID=5910022262&client_ip=218.28.233.106&SecurityKey=20251223140259&promotionId=&mvid=5900004337&mcid=500020&playurlVersion=WX-A1-8.12.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=de25853603f932803d10e4e26c9ba6fc&sv=10004&ct=android
+
+频道,#genre#
 神乐影院,http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
 1900影剧室,http://huanqiuzhibo.cn/manifest/douyu.php?id=7796193
 爱星影视,http://huanqiuzhibo.cn/manifest/douyu.php?id=9476806
