@@ -41,8 +41,8 @@ jobs:
     - name: 更新组播源
       run: |
         cd $GITHUB_WORKSPACE
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+          git config --local user.email "sh17611310186@mail.com"
+          git config --local user.name "sh17611310186-lang"
         git add .
         git commit -m "更新组播源"
         git push
