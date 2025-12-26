@@ -32,8 +32,8 @@ jobs:
           
     - name: Commit changes
       run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
+          git config --local user.email "sh17611310186@mail.com"
+          git config --local user.name "sh17611310186-lang"
           git add py/iptv源收集检测/assets/freetv/freetv_output.txt
           git add py/iptv源收集检测/assets/freetv/freetv_output_cctv.txt
           git add py/iptv源收集检测/assets/freetv/freetv_output_ws.txt
