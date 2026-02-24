@@ -1,4 +1,4 @@
-2026/02/24 06:46更新,#genre#
+2026/02/24 15:58更新,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 央视频道,#genre#
 CCTV1,http://106.111.244.182:60001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -17267,6 +17267,8 @@ CCTVCCTV文化精品,http://59.32.97.42:9901/tsfile/live/1041_1.m3u8?key=txiptv&
 CCTV第一剧场,http://59.32.97.42:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云音乐,http://59.32.97.42:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV风云剧场,http://59.32.97.42:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://221.13.234.80:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://221.13.234.80:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
 湖北卫视,http://1.195.131.69:9909/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -30518,6 +30520,7 @@ SCTV康巴卫视,http://124.161.172.132:9901/tsfile/live/1010_1.m3u8?key=txiptv&
 青海卫视,http://59.32.97.42:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://59.32.97.42:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林延边卫视,http://59.32.97.42:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://59.32.97.42:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江频道,#genre#
 浙江钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -40291,3 +40294,6 @@ CGTN,http://59.32.97.42:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authi
 金鹰卡通,http://59.32.97.42:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古,http://59.32.97.42:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 现代教育,http://59.32.97.42:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+广东影视,http://59.32.97.42:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+广东移动,http://59.32.97.42:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+哈哈炫动,http://59.32.97.42:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
