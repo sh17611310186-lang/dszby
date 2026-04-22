@@ -1,4 +1,4 @@
-2026/04/22 06:44更新,#genre#
+2026/04/22 16:37更新,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 央视频道,#genre#
 CCTV1,http://106.111.244.182:60001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -34591,6 +34591,8 @@ SCTV康巴卫视,http://124.161.172.132:9901/tsfile/live/1010_1.m3u8?key=txiptv&
 广西卫视,http://119.125.134.178:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://106.115.24.38:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://106.115.24.38:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://106.115.24.38:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://106.115.24.38:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江频道,#genre#
 浙江钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -45882,3 +45884,5 @@ CETV早期教育,http://119.125.134.178:9901/tsfile/live/1038_1.m3u8?key=txiptv&
 哈哈炫动,http://119.125.134.178:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 客家生活,http://119.125.134.178:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CGTN,http://119.125.134.178:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+河北经济,http://106.115.24.38:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+魏县电视台,http://106.115.24.38:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
