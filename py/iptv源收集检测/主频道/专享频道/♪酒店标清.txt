@@ -20,6 +20,7 @@ CCTV15,http://119.4.143.132:9901/tsfile/live/faacts/0015_1.m3u8?key=txiptv&playl
 云南卫视,http://119.4.143.132:9901/tsfile/live/faacts/0119_2.m3u8?key=txiptv&playlive=0&authid=0
 北京卫视,http://119.4.143.132:9901/tsfile/live/faacts/0122_2.m3u8?key=txiptv&playlive=0&authid=0
 吉林卫视,http://119.4.143.132:9901/tsfile/live/faacts/0116_1.m3u8?key=txiptv&playlive=0&authid=0
+四川卫视,http://183.223.157.33:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://119.4.143.132:9901/tsfile/live/faacts/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 天津卫视,http://119.4.143.132:9901/tsfile/live/faacts/0135_2.m3u8?key=txiptv&playlive=0&authid=0
 安徽卫视,http://119.4.143.132:9901/tsfile/live/faacts/0130_2.m3u8?key=txiptv&playlive=0&authid=0
@@ -28,12 +29,17 @@ CCTV15,http://119.4.143.132:9901/tsfile/live/faacts/0015_1.m3u8?key=txiptv&playl
 广东卫视,http://119.4.143.132:9901/tsfile/live/faacts/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 广西卫视,http://119.4.143.132:9901/tsfile/live/faacts/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视,http://119.4.143.132:9901/tsfile/live/faacts/0127_1.m3u8?key=txiptv&playlive=0&authid=0
-江西卫视,http://119.4.143.132:9901/tsfile/live/faacts/0138_2.m3u8?key=txiptv&playlive=0&authid=0
+河北卫视,http://119.4.143.132:9901/tsfile/live/faacts/0117_2.m3u8?key=txiptv&playlive=0&authid=0
 河南卫视,http://119.4.143.132:9901/tsfile/live/faacts/0139_2.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://119.4.143.132:9901/tsfile/live/faacts/0124_2.m3u8?key=txiptv&playlive=0&authid=0
+海南卫视,http://183.223.157.33:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://119.4.143.132:9901/tsfile/live/faacts/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 湖北卫视,http://119.4.143.132:9901/tsfile/live/faacts/0132_2.m3u8?key=txiptv&playlive=0&authid=0
+湖南卫视,http://183.223.157.33:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://119.4.143.132:9901/tsfile/live/faacts/0128_2.m3u8?key=txiptv&playlive=0&authid=0
 辽宁卫视,http://119.4.143.132:9901/tsfile/live/faacts/0121_2.m3u8?key=txiptv&playlive=0&authid=0
 重庆卫视,http://119.4.143.132:9901/tsfile/live/faacts/0142_2.m3u8?key=txiptv&playlive=0&authid=0
 黑龙江卫视,http://119.4.143.132:9901/tsfile/live/faacts/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+四川文旅,http://183.223.157.33:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+四川新闻,http://183.223.157.33:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+四川经济,http://183.223.157.33:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
