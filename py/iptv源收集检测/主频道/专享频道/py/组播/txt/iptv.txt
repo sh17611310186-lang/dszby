@@ -1,4 +1,4 @@
-2026/09/22 20:28更新,#genre#
+2026/09/23 08:07更新,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 央视频道,#genre#
 CCTV1,http://106.111.244.182:60001/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -22236,6 +22236,7 @@ CCTV4,http://119.129.172.128:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&
 CCTV5,http://119.129.172.128:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://119.129.172.128:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://125.42.149.120:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+女性时尚,http://119.129.173.236:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 
 卫视频道,#genre#
 湖北卫视,http://1.195.131.69:9909/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -53332,3 +53333,7 @@ CETV早期教育,http://119.125.134.243:9901/tsfile/live/1038_1.m3u8?key=txiptv&
 河北影视,http://106.115.24.195:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 IPTV热播剧场,http://119.129.172.128:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 广东公共,http://119.129.172.128:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+岭南戏曲,http://59.32.97.183:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+广东新闻,http://119.129.173.236:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东公共,http://119.129.173.236:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://119.129.173.236:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
